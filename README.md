@@ -65,6 +65,8 @@ Buka file `customers_results.xlsx` untuk melihat hasil register setiap customer.
 
 **Untuk panduan lengkap, lihat file `CARA_PENGGUNAAN.md`**
 
+**Untuk dokumentasi fungsi-fungsi script, lihat file `FUNCTIONS_DOCUMENTATION.md`**
+
 ## Credentials
 
 - **URL**: https://hwbo88v2.com/op/login
